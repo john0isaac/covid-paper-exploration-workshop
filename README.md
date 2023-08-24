@@ -15,14 +15,14 @@ This workshop explores the use of [Azure Text Analytics](https://azure.microsoft
 
 TBA
 
-## What you will learn
+## What students will learn
 
 In this project, you will automatically process texts of COVID-related scientific papers to draw some meaningful visual insights, such as: 
 
-    - Which medications are mostly discussed and why
-    - How strategies of COVID treatment changed over time
-    - How symptoms are related to different diagnoses
-    - Which medications are often used together
+ - Which medications are mostly discussed and why
+ - How strategies of COVID treatment changed over time
+ - How symptoms are related to different diagnoses
+ - Which medications are often used together
 
 ![image of completed project](images/result.png)
 
@@ -193,10 +193,3 @@ Things you can build:
 * Analyze your e-mail archive to see how the topics you discuss and your mood change over time. Most e-mail clients allow you to export your e-mails to plain text or CSV format (here is an [example for Outloook](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef/?WT.mc_id=academic-49822-dmitryso)).
 
 Learn more about text analytics by following [this module](https://docs.microsoft.com/learn/modules/analyze-text-with-text-analytics-service/?WT.mc_id=academic-49822-dmitryso).
-
-## Feedback
-
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
-
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
-
