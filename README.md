@@ -13,7 +13,7 @@ This workshop explores the use of [Azure Text Analytics](https://azure.microsoft
 
 ## Video walk-through
 
-TBA
+https://youtu.be/GqxdrfGHHqI
 
 ## What students will learn
 
